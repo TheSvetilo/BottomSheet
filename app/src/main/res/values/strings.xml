@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom</string>
+    <string name="dialogTitle">Hello!</string>
+    <string name="dialogText">This is bottom sheet text. Please press button to close this dialog.</string>
+    <string name="dialogButtonText">Got it</string>
+    <string name="show_bottom_sheet">Show Bottom Sheet</string>
+</resources>
