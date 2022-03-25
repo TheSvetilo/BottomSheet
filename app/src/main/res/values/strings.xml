@@ -4,4 +4,9 @@
     <string name="dialogText">This is bottom sheet text. Please press button to close this dialog.</string>
     <string name="dialogButtonText">Got it</string>
     <string name="show_bottom_sheet">Show Bottom Sheet</string>
+
+    <string name="agreement_full_text">By pressing next button you confirm the agreement and privacy policy</string>
+    <string name="confidential_info">agreement</string>
+    <string name="privacy_policy">privacy policy</string>
+
 </resources>

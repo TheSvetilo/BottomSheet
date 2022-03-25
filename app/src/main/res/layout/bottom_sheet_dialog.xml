@@ -3,7 +3,6 @@
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="2dp"
         android:orientation="horizontal">
 
         <ImageView
@@ -11,7 +10,7 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_gravity="center"
-            android:layout_margin="10dp"
+            android:layout_margin="@dimen/padding_small"
             android:src="@drawable/ic_message" />
 
         <LinearLayout
@@ -24,6 +23,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:textAppearance="@style/RedTitle"
                 android:text="@string/dialogTitle"
                 android:textSize="16sp"
                 android:textStyle="bold" />

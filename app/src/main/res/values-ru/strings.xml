@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лекция 1</string>
+    <string name="dialogTitle">Привет!</string>
+    <string name="dialogText">Это простой текст из диалогового окна для тестирования. Пожалуйста, нажмите кнопку ниже, чтобы закрыть это окно.</string>
+    <string name="dialogButtonText">Понятно</string>
+    <string name="show_bottom_sheet">Показать диалоговое окно</string>
+
+    <string name="agreement_full_text">Нажимая на эту кнопку вы подтверждаете, что ознакомились с условиями использования и политикой конфиденциальности</string>
+    <string name="confidential_info">условиями использования</string>
+    <string name="privacy_policy">политикой конфиденциальности</string>
+
+</resources>

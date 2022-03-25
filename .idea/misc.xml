@@ -3,8 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.33" />
+        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.5" />
       </map>
     </option>
   </component>
