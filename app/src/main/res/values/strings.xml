@@ -8,5 +8,11 @@
     <string name="agreement_full_text">By pressing next button you confirm the agreement and privacy policy</string>
     <string name="confidential_info">agreement</string>
     <string name="privacy_policy">privacy policy</string>
+    <string name="go_to_next_fragment">Go to next fragment</string>
+    <string name="camera">Camera</string>
+    <string name="wrong_email">Wrong email format</string>
+    <string name="nice_email">Correct email</string>
+    <string name="open_login_page">Open Login page</string>
+    <string name="email">Email</string>
 
 </resources>

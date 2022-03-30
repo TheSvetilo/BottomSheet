@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/drawable/ic_message.xml" value="0.286" />
         <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.5" />
+        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/fragment_agreement.xml" value="0.4134963768115942" />
+        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/fragment_buttons.xml" value="0.434375" />
+        <entry key="..\:/_vlad/_dev/Bottom/app/src/main/res/layout/fragment_image.xml" value="0.22" />
       </map>
     </option>
   </component>

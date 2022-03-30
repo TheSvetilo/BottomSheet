@@ -9,5 +9,8 @@
     <string name="agreement_full_text">Нажимая на эту кнопку вы подтверждаете, что ознакомились с условиями использования и политикой конфиденциальности</string>
     <string name="confidential_info">условиями использования</string>
     <string name="privacy_policy">политикой конфиденциальности</string>
+    <string name="go_to_next_fragment">Следующий фрагмент</string>
+    <string name="camera">Камера</string>
+    <string name="wrong_email">Неверный формат эл. почты</string>
 
 </resources>
